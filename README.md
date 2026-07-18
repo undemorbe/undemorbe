@@ -12,51 +12,29 @@
 
 ## <samp>~/whoami</samp>
 
-```ansi
-[38;5;240m╭─ [0m[38;5;203m●[0m [38;5;179m●[0m [38;5;42m●[0m[38;5;240m ─ [0m[38;5;44mboris@dev — fastfetch[0m [38;5;240m──────────────────────────────────────────[0m[38;5;240m╮[0m
-[38;5;240m│ [0m[38;5;42m      ▟███▙      [0m  [1m[38;5;42mboris[0m[0m[38;5;240m@[0m[1m[38;5;42mdev[0m[0m                                            [38;5;240m │[0m
-[38;5;240m│ [0m[38;5;42m    ▟█████▛      [0m  [38;5;240m─────────────────────────────[0m                        [38;5;240m │[0m
-[38;5;240m│ [0m[38;5;42m   ▟████▛        [0m  [38;5;44m host    [0m[38;5;253mgithub.com/dolbobob00[0m                       [38;5;240m │[0m
-[38;5;240m│ [0m[38;5;42m  ▟████▛   ▟▙    [0m  [38;5;44m role    [0m[38;5;253mFlutter Developer · Mobile Eng[0m              [38;5;240m │[0m
-[38;5;240m│ [0m[38;5;42m  ▜███▙  ▟███▛   [0m  [38;5;44m shell   [0m[38;5;245mzsh · starship[0m                              [38;5;240m │[0m
-[38;5;240m│ [0m[38;5;44m   ▜████▙▟██▛    [0m  [38;5;44m editor  [0m[38;5;245mVS Code · Android Studio[0m                    [38;5;240m │[0m
-[38;5;240m│ [0m[38;5;44m    ▜██████▛     [0m  [38;5;44m lang    [0m[38;5;245mDart 3.x · null-safe[0m                        [38;5;240m │[0m
-[38;5;240m│ [0m[38;5;44m     ▜████▛      [0m  [38;5;44m stack   [0m[38;5;245mFlutter · BLoC · Firebase[0m                   [38;5;240m │[0m
-[38;5;240m│ [0m[38;5;44m      ▜██▛       [0m  [38;5;44m theme   [0m[38;5;245mslate · emerald · cyan[0m                      [38;5;240m │[0m
-[38;5;240m│ [0m[38;5;44m       ▜▛        [0m  [38;5;44m contact [0m[38;5;245mtelegram @undemorbe[0m                         [38;5;240m │[0m
-[38;5;240m╰──────────────────────────────────────────────────────────────────────────╯[0m
-```
+<div align="center">
+
+<img src="assets/hero.svg" width="720" alt="fastfetch"/>
+
+</div>
 
 ## <samp>~/about</samp>
 
-```ansi
-[38;5;240m╭─ [0m[38;5;203m●[0m [38;5;179m●[0m [38;5;42m●[0m[38;5;240m ─ [0m[38;5;44mabout.txt — bat[0m [38;5;240m────────────────────────────────────────────────[0m[38;5;240m╮[0m
-[38;5;240m│ [0m[38;5;39m~/mobile[0m[38;5;42m $ [0m[1m[38;5;253mcat about.txt[0m[0m                                                [38;5;240m │[0m
-[38;5;240m│ [0m                                                                        [38;5;240m │[0m
-[38;5;240m│ [0m[38;5;253m  I build mobile apps the way I'd want them built —[0m                     [38;5;240m │[0m
-[38;5;240m│ [0m[38;5;253m  small widgets, honest state, layers that don't leak.[0m                  [38;5;240m │[0m
-[38;5;240m│ [0m                                                                        [38;5;240m │[0m
-[38;5;240m│ [0m[38;5;245m  Dart is my daily driver. I sweat frame budgets,[0m                       [38;5;240m │[0m
-[38;5;240m│ [0m[38;5;245m  readable diffs, and code that ages gracefully.[0m                        [38;5;240m │[0m
-[38;5;240m│ [0m                                                                        [38;5;240m │[0m
-[38;5;240m╰──────────────────────────────────────────────────────────────────────────╯[0m
-```
+<div align="center">
+
+<img src="assets/about.svg" width="720" alt="cat about.txt"/>
+
+</div>
 
 <div align="center"><code>&nbsp;·&nbsp;&nbsp;·&nbsp;&nbsp;·&nbsp;&nbsp;·&nbsp;&nbsp;·&nbsp;&nbsp;·&nbsp;&nbsp;·&nbsp;&nbsp;·&nbsp;&nbsp;·&nbsp;&nbsp;·&nbsp;&nbsp;·&nbsp;&nbsp;·&nbsp;&nbsp;·&nbsp;&nbsp;·&nbsp;&nbsp;·&nbsp;&nbsp;·&nbsp;&nbsp;·&nbsp;&nbsp;·&nbsp;&nbsp;·&nbsp;&nbsp;·&nbsp;&nbsp;·&nbsp;&nbsp;·&nbsp;&nbsp;·&nbsp;&nbsp;·&nbsp;</code></div>
 
 ## <samp>~/projects</samp>
 
-```ansi
-[38;5;240m╭─ [0m[38;5;203m●[0m [38;5;179m●[0m [38;5;42m●[0m[38;5;240m ─ [0m[38;5;44mprojects/ — eza[0m [38;5;240m────────────────────────────────────────────────[0m[38;5;240m╮[0m
-[38;5;240m│ [0m[38;5;39m~/mobile[0m[38;5;42m $ [0m[1m[38;5;253meza -la --icons projects/[0m[0m                                    [38;5;240m │[0m
-[38;5;240m│ [0m                                                                        [38;5;240m │[0m
-[38;5;240m│ [0m[38;5;240m  drwxr-xr-x  [0m[38;5;42mQStory[0m[38;5;240m/[0m[38;5;245m       interactive story engine · offline-first[0m    [38;5;240m │[0m
-[38;5;240m│ [0m[38;5;240m  drwxr-xr-x  [0m[38;5;42mBrainElixir[0m[38;5;240m/[0m[38;5;245m  focus & memory trainer · playful UX[0m         [38;5;240m │[0m
-[38;5;240m│ [0m[38;5;240m  drwxr-xr-x  [0m[38;5;42mcore_ui[0m[38;5;240m/[0m[38;5;245m      design system · tokens · widgets[0m            [38;5;240m │[0m
-[38;5;240m│ [0m[38;5;240m  drwxr-xr-x  [0m[38;5;42mflutter_lab[0m[38;5;240m/[0m[38;5;245m  experiments · motion · profiling[0m            [38;5;240m │[0m
-[38;5;240m│ [0m                                                                        [38;5;240m │[0m
-[38;5;240m╰──────────────────────────────────────────────────────────────────────────╯[0m
-```
+<div align="center">
+
+<img src="assets/projects.svg" width="720" alt="ls projects"/>
+
+</div>
 
 <div align="center">
 
@@ -85,38 +63,21 @@
 
 </div>
 
-```ansi
-[38;5;240m╭─ [0m[38;5;203m●[0m [38;5;179m●[0m [38;5;42m●[0m[38;5;240m ─ [0m[38;5;44mflutter doctor[0m [38;5;240m─────────────────────────────────────────────────[0m[38;5;240m╮[0m
-[38;5;240m│ [0m[38;5;39m~/mobile[0m[38;5;42m $ [0m[1m[38;5;253mflutter doctor -v[0m[0m                                            [38;5;240m │[0m
-[38;5;240m│ [0m                                                                        [38;5;240m │[0m
-[38;5;240m│ [0m[38;5;42m ✔ [0m[38;5;253mFlutter      [0m[38;5;245mstable channel · sound null-safety[0m                      [38;5;240m │[0m
-[38;5;240m│ [0m[38;5;42m ✔ [0m[38;5;253mDart         [0m[38;5;245masync · isolates · streams[0m                              [38;5;240m │[0m
-[38;5;240m│ [0m[38;5;42m ✔ [0m[38;5;253mState        [0m[38;5;245mBLoC · Cubit · Riverpod[0m                                 [38;5;240m │[0m
-[38;5;240m│ [0m[38;5;42m ✔ [0m[38;5;253mBackend      [0m[38;5;245mFirebase · REST · Dio + Retrofit[0m                        [38;5;240m │[0m
-[38;5;240m│ [0m[38;5;42m ✔ [0m[38;5;253mDI / Gen     [0m[38;5;245mGetIt · Injectable · Freezed[0m                            [38;5;240m │[0m
-[38;5;240m│ [0m[38;5;42m ✔ [0m[38;5;253mArch         [0m[38;5;245mClean · SOLID · feature-first[0m                           [38;5;240m │[0m
-[38;5;240m│ [0m[38;5;42m ✔ [0m[38;5;253mTooling      [0m[38;5;245mbuild_runner · melos · fastlane[0m                         [38;5;240m │[0m
-[38;5;240m│ [0m                                                                        [38;5;240m │[0m
-[38;5;240m│ [0m[38;5;42m  • No issues found![0m[38;5;240m   (ran in 3.2s)[0m                                    [38;5;240m │[0m
-[38;5;240m│ [0m                                                                        [38;5;240m │[0m
-[38;5;240m╰──────────────────────────────────────────────────────────────────────────╯[0m
-```
+<div align="center">
+
+<img src="assets/doctor.svg" width="720" alt="flutter doctor"/>
+
+</div>
 
 <div align="center"><code>&nbsp;·&nbsp;&nbsp;·&nbsp;&nbsp;·&nbsp;&nbsp;·&nbsp;&nbsp;·&nbsp;&nbsp;·&nbsp;&nbsp;·&nbsp;&nbsp;·&nbsp;&nbsp;·&nbsp;&nbsp;·&nbsp;&nbsp;·&nbsp;&nbsp;·&nbsp;&nbsp;·&nbsp;&nbsp;·&nbsp;&nbsp;·&nbsp;&nbsp;·&nbsp;&nbsp;·&nbsp;&nbsp;·&nbsp;&nbsp;·&nbsp;&nbsp;·&nbsp;&nbsp;·&nbsp;&nbsp;·&nbsp;&nbsp;·&nbsp;&nbsp;·&nbsp;</code></div>
 
 ## <samp>~/build</samp>
 
-```ansi
-[38;5;240m╭─ [0m[38;5;203m●[0m [38;5;179m●[0m [38;5;42m●[0m[38;5;240m ─ [0m[38;5;44mbuild — zsh[0m [38;5;240m────────────────────────────────────────────────────[0m[38;5;240m╮[0m
-[38;5;240m│ [0m[38;5;39m~/mobile[0m[38;5;42m $ [0m[1m[38;5;253mdart run build_runner build --delete-conflicting-outputs[0m[0m     [38;5;240m │[0m
-[38;5;240m│ [0m                                                                        [38;5;240m │[0m
-[38;5;240m│ [0m[38;5;240m  [INFO] [0m[38;5;245mGenerating build script...[0m                                     [38;5;240m │[0m
-[38;5;240m│ [0m[38;5;240m  [INFO] [0m[38;5;245mRunning build...[0m                                               [38;5;240m │[0m
-[38;5;240m│ [0m[38;5;240m  [INFO] [0m[38;5;44mfreezed[0m[38;5;245m · [0m[38;5;44mjson_serializable[0m[38;5;245m · [0m[38;5;44minjectable[0m                       [38;5;240m │[0m
-[38;5;240m│ [0m[38;5;42m  [ ok ] [0m[38;5;253mSucceeded after 4.1s with 128 outputs[0m                          [38;5;240m │[0m
-[38;5;240m│ [0m                                                                        [38;5;240m │[0m
-[38;5;240m╰──────────────────────────────────────────────────────────────────────────╯[0m
-```
+<div align="center">
+
+<img src="assets/build.svg" width="720" alt="build_runner"/>
+
+</div>
 
 ## <samp>~/metrics</samp>
 
@@ -139,26 +100,17 @@
 
 ## <samp>~/log</samp>
 
-```ansi
-[38;5;240m╭─ [0m[38;5;203m●[0m [38;5;179m●[0m [38;5;42m●[0m[38;5;240m ─ [0m[38;5;44mgit log --oneline[0m [38;5;240m──────────────────────────────────────────────[0m[38;5;240m╮[0m
-[38;5;240m│ [0m[38;5;39m~/mobile[0m[38;5;42m $ [0m[1m[38;5;253mgit log --oneline -6[0m[0m                                         [38;5;240m │[0m
-[38;5;240m│ [0m                                                                        [38;5;240m │[0m
-[38;5;240m│ [0m[38;5;179m  a1f9c2e [0m[38;5;253mrefactor: extract feature into clean layers[0m                   [38;5;240m │[0m
-[38;5;240m│ [0m[38;5;179m  7b30d4a [0m[38;5;253mperf: kill jank, hold the UI at 120fps[0m                        [38;5;240m │[0m
-[38;5;240m│ [0m[38;5;179m  e2c8b71 [0m[38;5;253mfeat: reusable design-system components[0m                       [38;5;240m │[0m
-[38;5;240m│ [0m[38;5;179m  9d47f60 [0m[38;5;253mtest: cover the tricky BLoC transitions[0m                       [38;5;240m │[0m
-[38;5;240m│ [0m[38;5;179m  4a6e1c3 [0m[38;5;253mchore: trim deps, ship a smaller apk[0m                          [38;5;240m │[0m
-[38;5;240m│ [0m[38;5;179m  0f2b9ad [0m[38;5;253mdocs: write it down so future-me is grateful[0m                  [38;5;240m │[0m
-[38;5;240m│ [0m                                                                        [38;5;240m │[0m
-[38;5;240m╰──────────────────────────────────────────────────────────────────────────╯[0m
-```
+<div align="center">
 
-```ansi
-[38;5;240m╭─ [0m[38;5;203m●[0m [38;5;179m●[0m [38;5;42m●[0m[38;5;240m ─ [0m[38;5;44m~ — zsh[0m [38;5;240m────────────────────────────────────────────────────────[0m[38;5;240m╮[0m
-[38;5;240m│ [0m[38;5;39m~/mobile[0m[38;5;42m $ [0m[1mflutter run[0m[38;5;240m   # thanks for stopping by[0m                       [38;5;240m │[0m
-[38;5;240m│ [0m[38;5;39m~/mobile[0m[38;5;42m $ [0m[38;5;42m█[0m                                                            [38;5;240m │[0m
-[38;5;240m╰──────────────────────────────────────────────────────────────────────────╯[0m
-```
+<img src="assets/log.svg" width="720" alt="git log"/>
+
+</div>
+
+<div align="center">
+
+<img src="assets/footer.svg" width="720" alt="flutter run"/>
+
+</div>
 
 <div align="center">
 
