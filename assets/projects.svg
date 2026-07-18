@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="686" height="256" viewBox="0 0 686 256" role="img" aria-label="projects/ — eza">
+<defs><filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#000000" flood-opacity="0.45"/></filter><linearGradient id="bar" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#111c33"/><stop offset="1" stop-color="#0b1220"/></linearGradient></defs>
+<rect x="13" y="13" width="660" height="230" rx="12" fill="#0f172a" stroke="#1e293b" stroke-width="1.5" filter="url(#sh)"/>
+<path d="M13 53 V25 Q13 13 25 13 H661 Q673 13 673 25 V53 Z" fill="url(#bar)"/>
+<line x1="13" y1="53" x2="673" y2="53" stroke="#1e293b" stroke-width="1"/>
+<circle cx="35" cy="33" r="6" fill="#f87171"/>
+<circle cx="55" cy="33" r="6" fill="#fbbf24"/>
+<circle cx="75" cy="33" r="6" fill="#34d399"/>
+<text x="343.0" y="37.5" text-anchor="middle" font-family="'JetBrains Mono','Cascadia Code','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#64748b">projects/ — eza</text>
+<text x="37" y="83" xml:space="preserve" font-family="'JetBrains Mono','Cascadia Code','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15.0"><tspan fill="#38bdf8">~/mobile</tspan><tspan fill="#34d399"> $ </tspan><tspan fill="#e2e8f0" font-weight="700">eza -la --icons projects/</tspan></text>
+<text x="37" y="129" xml:space="preserve" font-family="'JetBrains Mono','Cascadia Code','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15.0"><tspan fill="#475569">  drwxr-xr-x  </tspan><tspan fill="#34d399">QStory</tspan><tspan fill="#475569">/</tspan><tspan fill="#94a3b8">       interactive story engine · offline-first</tspan></text>
+<text x="37" y="152" xml:space="preserve" font-family="'JetBrains Mono','Cascadia Code','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15.0"><tspan fill="#475569">  drwxr-xr-x  </tspan><tspan fill="#34d399">BrainElixir</tspan><tspan fill="#475569">/</tspan><tspan fill="#94a3b8">  focus &amp; memory trainer · playful UX</tspan></text>
+<text x="37" y="175" xml:space="preserve" font-family="'JetBrains Mono','Cascadia Code','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15.0"><tspan fill="#475569">  drwxr-xr-x  </tspan><tspan fill="#34d399">core_ui</tspan><tspan fill="#475569">/</tspan><tspan fill="#94a3b8">      design system · tokens · widgets</tspan></text>
+<text x="37" y="198" xml:space="preserve" font-family="'JetBrains Mono','Cascadia Code','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15.0"><tspan fill="#475569">  drwxr-xr-x  </tspan><tspan fill="#34d399">flutter_lab</tspan><tspan fill="#475569">/</tspan><tspan fill="#94a3b8">  experiments · motion · profiling</tspan></text>
+</svg>
